@@ -1,4 +1,4 @@
-**Hello!** ✨ 👋
+**Hello!** 🌸 👋
 
 I usually make mods for Geometry Dash as a hobby! They are usually fangames/fanmades ^^
 
@@ -7,10 +7,14 @@ C++ programmer (very beginner imo)
 I love cats 🐱 and coffee ☕~
 
 ## My projects ☔
-* [Geometry Dash: Odyssey](https://github.com/Chumiu/GeometryDash-Odyssey) 🌈 (Contributor)
-* [Geometry Dash: Time Reborn](https://github.com/Chumiu/GeometryDash-TimeReborn) ⏳
-* [Geometry Dash Lightsync](https://github.com/GeometryDash-Lightsync) ♥️
-* ??? 💫
+* 🌈 [Geometry Dash: Odyssey](https://github.com/Chumiu/GeometryDash-Odyssey) (Contributor)
+* ⏳ [Geometry Dash: Time Reborn](https://github.com/Chumiu/GeometryDash-TimeReborn) (Windows port)
+* ♥️ [Geometry Dash Lightsync](https://github.com/GeometryDash-Lightsync)
+* 💫 ???
+
+## 🍡 My socials
+* ☔ Discord: chumiiiu
+* *That's all... for now~*
 
 <!--
 **Chumiu/chumiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
