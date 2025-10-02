@@ -4,6 +4,8 @@ I usually make mods for Geometry Dash as a hobby! They are usually fangames/fanm
 
 C++ programmer (very beginner imo)
 
+I love cats 🐱 and coffee ☕~
+
 ## My projects ☔
 * [Geometry Dash: Odyssey](https://github.com/Chumiu/GeometryDash-Odyssey) 🌈 (Contributor)
 * [Geometry Dash: Time Reborn](https://github.com/Chumiu/GeometryDash-TimeReborn) ⏳
