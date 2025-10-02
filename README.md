@@ -1,4 +1,4 @@
-**Hello! ✨** 👋
+**Hello!** ✨ 👋
 
 I usually make mods for Geometry Dash as a hobby! They are usually fangames/fanmades ^^
 
