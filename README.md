@@ -1,11 +1,14 @@
 **Hello! ✨** 👋
 
-I usually make mods for Geometry Dash as a hobby! C++ programmer (very beginner imo)
+I usually make mods for Geometry Dash as a hobby! They are usually fangames/fanmades ^^
+
+C++ programmer (very beginner imo)
 
 ## My projects ☔
 * [Geometry Dash: Odyssey](https://github.com/Chumiu/GeometryDash-Odyssey) 🌈 (Contributor)
 * [Geometry Dash: Time Reborn](https://github.com/Chumiu/GeometryDash-TimeReborn) ⏳
 * [Geometry Dash Lightsync](https://github.com/GeometryDash-Lightsync) ♥️
+* ??? 💫
 
 <!--
 **Chumiu/chumiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
