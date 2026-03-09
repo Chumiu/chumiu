@@ -8,7 +8,7 @@ I love cats 🐱 and coffee ☕~
 
 ## ☔ My projects
 * 🌈 [Geometry Dash: Odyssey](https://github.com/Chumiu/GeometryDash-Odyssey) (Contributor)
-* ⏳ [Geometry Dash: Time Reborn](https://github.com/Chumiu/GeometryDash-TimeReborn) (Windows port)
+* ⏳ [Geometry Dash: Time Reborn](https://github.com/Chumiu/GeometryDash-TimeReborn) (Contributor)
 * ♥️ [Geometry Dash Lightsync](https://github.com/GeometryDash-Lightsync)
 * 💫 Geometry Dash Galaxy (Coming Soon!)
 * 🐦‍🔥 ????
