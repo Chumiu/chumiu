@@ -15,7 +15,6 @@ Cats and coffee Lover
 
 ## 🍡 My socials
 * ☔ Discord: chumiiiu
-* *That's all... for now~*
 
 <!--
 **Chumiu/chumiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
