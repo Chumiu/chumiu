@@ -13,7 +13,7 @@ Cats and coffee Lover
 * 💫 Geometry Dash Galaxy (Coming Soon!)
 * 🐦‍🔥 ????
 
-## 🍡 My socials
+## 🔗 My socials
 * ☔ Discord: chumiiiu
 
 <!--
